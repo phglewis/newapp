@@ -18,7 +18,7 @@ group :development, :test do
   gem 'autotest-growl'
   gem 'autotest-rails'
   gem 'capybara'
-
+  gem 'sqlite3'
 
 end
 # Use SCSS for stylesheets
